@@ -158,3 +158,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/original_grammar/config/config.yaml
+/.vs/gpt-laboratory/FileContentIndex
+/.vs/gpt-laboratory/FileContentIndex/0fd0377c-2200-4448-af4a-d08cf0d13ed6.vsidx
+/.vs/gpt-laboratory/FileContentIndex/85bbfb3b-9a07-4ae3-a6c9-ca54b63f93d6.vsidx
+/.vs/gpt-laboratory/FileContentIndex/ed205966-0d17-4fa7-9df5-9d99f64ca570.vsidx
+/.vs/gpt-laboratory/v17
+/.vs/gpt-laboratory/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
